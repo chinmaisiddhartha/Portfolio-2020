@@ -14,13 +14,13 @@ import particles from '../../const/particle.js';
 import ReactGa from 'react-ga';
 import {Helmet} from 'react-helmet';
 
-//--Motasim Foads Portfolio website Google analytics--
+//--Chinmai Siddharthas Portfolio website Google analytics--
 //--Replace with your own key !!
-function Analytics(){
-  ReactGa.initialize("UA-154721739-1")
-  ReactGa.pageview('motasimfoad.com - Home Screen')
-}
-//--Motasim Foads Portfolio website Google analytics--
+// function Analytics(){
+//   ReactGa.initialize("UA-154721739-1")
+//   ReactGa.pageview('motasimfoad.com - Home Screen')
+// }
+//--Chinmai Siddharthas Portfolio website Google analytics--
 
 function Home() {
   Analytics()
@@ -28,9 +28,9 @@ function Home() {
       <div>
          <Helmet>
                   <meta charSet="utf-8" />
-                  <title>Home | Motasim Foad</title>
-                  <link rel="canonical" href="http://motasimfoad.com/home" />
-                  <meta name="description" content="Motasim Foad | Home - Product Manager | Project Manager | Software Engineer" />
+                  <title>Home | Chinmai Siddhartha</title>
+                  <link rel="canonical" href="http://ncsid.dev/home" />
+                  <meta name="description" content="Chinmai Siddhartha | Home - Product Manager | Project Manager | Software Engineer" />
          </Helmet>
           <Animate to="1" from="0" attributeName="opacity">
             <Particles

@@ -20,7 +20,7 @@ import {
            Hello! 
          </h1>
          <h2 className="second_line">
-           I am <strong>motasim foad</strong>
+           I am <strong>Chinmai Siddhartha</strong>
          </h2>
          <h3>
          <ReactTypingEffect

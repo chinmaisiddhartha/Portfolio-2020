@@ -12,22 +12,22 @@ import Particles from 'react-particles-js';
 
 class About extends Component {
 
-  componentDidMount() {
-    //--Motasim Foads Portfolio website Google analytics--
-    //--Replace with your own key !!
-    ReactGa.initialize("UA-154721739-1");
-    ReactGa.pageview('motasimfoad.com - About Screen');
-    //--Motasim Foads Portfolio website Google analytics--
-  }
+  // componentDidMount() {
+  //   //--Chinmai Siddharthas Portfolio website Google analytics--
+  //   //--Replace with your own key !!
+  //   ReactGa.initialize("UA-154721739-1");
+  //   ReactGa.pageview('motasimfoad.com - About Screen');
+  //   //--Chinmai Siddharthas Portfolio website Google analytics--
+  // }
  
   render() {
     return (
         <Container className="About-header" fluid={true}>
           <Helmet>
                 <meta charSet="utf-8" />
-                <title>About | Motasim Foad</title>
-                <link rel="canonical" href="http://motasimfoad.com/about" />
-                <meta name="description" content="Motasim Foad | About - Product Manager | Project Manager | Software Engineer
+                <title>About | Chinmai Siddhartha</title>
+                <link rel="canonical" href="http://ncsid.dev/about" />
+                <meta name="description" content="Chinmai Siddhartha | About - Product Manager | Project Manager | Software Engineer
                 Planning to build a brand or a product, especially tech products, and looking for someone with demonstrated work 
                 history in the computer software industry. I have actively worked with leading-edge product development and project 
                 management methodologies incorporating industry standards and beyond tools and trends for the past few years. Making 

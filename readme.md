@@ -1,4 +1,4 @@
-##Motasim Foad Portfolio##
+##Chinmai Siddhartha Portfolio##
 
 Live preview : https://motasimfoad.com
 
